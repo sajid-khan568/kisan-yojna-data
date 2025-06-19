@@ -2,6 +2,7 @@
   "name": "kisan-yojna-data",
   "version": "1.0.0",
   "scripts": {
+    "prepare": "chmod +x ./node_modules/.bin/json-server",
     "start": "json-server --watch db.json --port 10000"
   },
   "dependencies": {
