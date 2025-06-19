@@ -1,0 +1,144 @@
+{
+  "kisan_yojana": [
+    {
+      "id": 1,
+      "scheme_name": "PM Kisan Samman Nidhi",
+      "description": "Small farmers ko ₹6,000 per year ki direct financial help. Paise 3 equal installments mein milte hain.",
+      "eligibility": "Maximum 2 hectare farmland wale kisan",
+      "official_link": "https://pmkisan.gov.in"
+    },
+    {
+      "id": 2,
+      "scheme_name": "PM Fasal Bima Yojana",
+      "description": "Natural disasters se crop damage hone par compensation. Premium bahut kam hai.",
+      "eligibility": "Sabhi types ke kisan (tenant farmers bhi eligible)",
+      "official_link": "https://pmfby.gov.in"
+    },
+    {
+      "id": 3,
+      "scheme_name": "Kisan Credit Card (KCC)",
+      "description": "Kharif/Rabi crops ke liye low-interest loan. Fertilizer, seeds aur machinery pe kharcha kar sakte hain.",
+      "eligibility": "Kisan, sharecropper ya agricultural laborer",
+      "official_link": "https://www.nabard.org"
+    },
+    {
+      "id": 4,
+      "scheme_name": "Soil Health Card",
+      "description": "Apne khet ki soil quality ka scientific report. Fertilizer recommendations bhi milti hain.",
+      "eligibility": "Har kisan ke liye free",
+      "official_link": "https://soilhealth.dac.gov.in"
+    },
+    {
+      "id": 5,
+      "scheme_name": "Paramparagat Krishi Vikas Yojana",
+      "description": "Organic farming karne par subsidy. Cluster-based projects ko support.",
+      "eligibility": "Minimum 1 acre organic farm wale kisan",
+      "official_link": "https://pgsindia-ncof.gov.in"
+    },
+    {
+      "id": 6,
+      "scheme_name": "PM Krishi Sinchai Yojana",
+      "description": "Drip/Sprinkler irrigation pe 55% tak subsidy. 'Per Drop More Crop' principle.",
+      "eligibility": "Individual farmers/FPOs",
+      "official_link": "https://pmksy.gov.in"
+    },
+    {
+      "id": 7,
+      "scheme_name": "National Horticulture Mission",
+      "description": "Fruits, vegetables aur flowers ki advanced farming ke liye help.",
+      "eligibility": "Horticulture farmers",
+      "official_link": "https://nhb.gov.in"
+    },
+    {
+      "id": 8,
+      "scheme_name": "e-NAM (National Agriculture Market)",
+      "description": "Online platform par apni fasal becho across India. Better price milta hai.",
+      "eligibility": "Registered farmers/traders",
+      "official_link": "https://enam.gov.in"
+    },
+    {
+      "id": 9,
+      "scheme_name": "Kisan Rail",
+      "description": "Sabse sasta rate par fruits/vegetables ka transportation via trains.",
+      "eligibility": "FPOs/Cooperatives/Individual farmers",
+      "official_link": "https://indianrailways.gov.in"
+    },
+    {
+      "id": 10,
+      "scheme_name": "Dairy Entrepreneurship Scheme",
+      "benefit": "Dairy farm shuru karne ke liye ₹10 lakh tak ka loan subsidy.",
+      "eligibility": "Dairy farmers (minimum 2 cows/buffaloes)",
+      "official_link": "https://www.nabard.org"
+    },
+    {
+      "id": 11,
+      "scheme_name": "National Beekeeping Mission",
+      "description": "Honey production ke liye training + financial help.",
+      "eligibility": "Beekeepers/Farmers",
+      "official_link": "https://nbhm.gov.in"
+    },
+    {
+      "id": 12,
+      "scheme_name": "Agriculture Infrastructure Fund",
+      "description": "Cold storage/warehouse banane ke liye low-cost loan.",
+      "eligibility": "FPOs/Agri-entrepreneurs",
+      "official_link": "https://agriinfra.dac.gov.in"
+    },
+    {
+      "id": 13,
+      "scheme_name": "PM Matsya Sampada Yojana",
+      "description": "Fish farming aur processing units ke liye subsidy.",
+      "eligibility": "Fishermen/Fish farmers",
+      "official_link": "https://pmmsy.dof.gov.in"
+    },
+    {
+      "id": 14,
+      "scheme_name": "National Bamboo Mission",
+      "description": "Bamboo cultivation aur product manufacturing pe help.",
+      "eligibility": "Bamboo growers/Self-help groups",
+      "official_link": "https://nbm.nic.in"
+    },
+    {
+      "id": 15,
+      "scheme_name": "Sub-Mission on Seeds",
+      "description": "High-quality seeds pe 50% subsidy.",
+      "eligibility": "All certified farmers",
+      "official_link": "https://seednet.gov.in"
+    },
+    {
+      "id": 16,
+      "scheme_name": "Rainfed Area Development",
+      "description": "Water conservation techniques pe training aur funds.",
+      "eligibility": "Farmers in drought-prone areas",
+      "official_link": "https://dac.gov.in"
+    },
+    {
+      "id": 17,
+      "scheme_name": "Kisan Call Center (Toll-Free)",
+      "description": "Kisi bhi farming problem ka solution phone par. 24x7 helpline.",
+      "eligibility": "All farmers",
+      "official_link": "https://dackkvk.gov.in"
+    },
+    {
+      "id": 18,
+      "scheme_name": "Micro Irrigation Fund",
+      "description": "Drip irrigation systems pe extra subsidy (state governments ke through)",
+      "eligibility": "Small/Marginal farmers",
+      "official_link": "https://www.nabard.org"
+    },
+    {
+      "id": 19,
+      "scheme_name": "National Food Security Mission",
+      "description": "Rice, wheat aur pulses ki productivity badhane ke liye techniques.",
+      "eligibility": "Cereal/pulse growers",
+      "official_link": "https://nfsm.gov.in"
+    },
+    {
+      "id": 20,
+      "scheme_name": "Kisan Drones Yojana",
+      "description": "Drones pe 50% subsidy for crop monitoring/spraying.",
+      "eligibility": "FPOs/Custom Hiring Centers",
+      "official_link": "https://agricoop.gov.in"
+    }
+  ]
+}
